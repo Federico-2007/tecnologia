@@ -1,0 +1,74 @@
+.cuadro1{
+    border-radius: 10px;
+	position: absolute;
+	top: 80px;
+	left: 90px;
+	width: 1100px;
+	height: 600px;
+	background: purple;
+}
+.cuadro2{
+	position: absolute;
+	top: 90px;
+	left: 470px;
+	width: 400px;
+	height: 40px;
+	background: #6C3483 ;
+}
+.cuadro3{
+	position: absolute;
+	top: 220px;
+	left: 680px;
+	width: 300px;
+	height: 390px;
+	background: #6C3483 ;
+}
+.cuadro4{
+	position: absolute;
+	top: 220px;
+	left: 340px;
+	width: 300px;
+	height: 390px;
+	background: #6C3483 ;
+}
+.titulo1{
+	position: absolute;
+	top: 90px;
+	left: 600px;
+	color: black;
+	font-size: 30px;
+}
+.titulo2{
+	position: absolute;
+	top: 220px;
+	left: 400px;
+	color: black;
+	font-size: 30px;
+}
+.titulo3{
+	position: absolute;
+	top: 220px;
+	left: 710px;
+	color: black;
+	font-size: 30px;
+}
+.imagen1{
+position: absolute;
+top: 220px;
+left: 400px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(army.png);
+background-size: cover;
+}
+.imagen2{
+position: absolute;
+top: 270px;
+left: 730px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(bp.png);
+background-size: cover;
+}
