@@ -1,0 +1,71 @@
+.cuadro1{
+	border-radius: 10px;
+	position: absolute;
+	top: 60px;
+	left: 50px;
+	width: 800px;
+	height: 40px;
+	background: #6C3483 ;
+}
+	.titulo1{
+		position: absolute;
+		top: 4px;
+		left: 0px;
+		color: black;
+		font-size: 30px;
+	}
+
+.cuadro2{
+	border-radius: 10px;
+	position: absolute;
+	top: 120px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+	.titulo2{
+		position: absolute;
+		top: 4px;
+		left: 0px;
+		color: black;
+		font-size: 30px;
+	}
+.texto1{
+	position: absolute;
+	top: 60px;
+	left: 0px;
+	width: 700px;
+	height: 200px;
+	color: black;
+	font-size: 30px;
+}	
+
+.titulo3{
+	position: absolute;
+	border-radius: 10px;
+	position: absolute;
+	top: 400px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+	.texto2{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+	.texto3{
+		position: absolute;
+		top: 50px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
