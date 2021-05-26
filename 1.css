@@ -1,0 +1,71 @@
+body{
+	background-color: gray;
+}
+.papa{
+	position: absolute;
+	height: 120px;
+	width: 120px;
+	background: purple;
+	top: 20px;
+	left: 900px;
+	font-size: 30px;
+	transition: all 5s;
+}
+
+.hijo{
+	position: absolute;
+	height: 370px;
+	width: 80px;
+	background: #635C61;
+	top: 140px;
+	left: 20px;	
+	display: none;
+	transition: all 5s;
+}
+
+.papa:hover .hijo{
+	display: block;
+}
+
+.hi1{
+	background: #5A0B43;
+	height: 40px;
+	width: 40px;
+	display: inline-flex;
+	margin-right: 30px;
+	margin-top: 45px;
+	margin-left: 15px;
+	font-size: 30px;
+	color: #5A0B43;
+}
+
+.hi2{
+	background: #5A0B43;
+	height: 40px;
+	width: 40px;
+	display: inline-flex;
+	margin-right: 30px;
+	margin-top: 80px;
+	margin-left: 15px;
+	font-size: 30px;
+	color: #5A0B43;
+}
+
+body:hover body{
+
+}
+
+/* The animation code */
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: blue;}
+}
+
+/* The element to apply the animation to */
+body {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 10s;
+}
