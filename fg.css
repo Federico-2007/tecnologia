@@ -1,0 +1,188 @@
+.cuadro1{
+	border-radius: 10px;
+	position: absolute;
+	top: 60px;
+	left: 730px;
+	width: 300px;
+	height: 40px;
+	background: #6C3483 ;
+}
+	.titulo1{
+		position: absolute;
+		top: 4px;
+		left: 0px;
+		color: black;
+		font-size: 30px;
+	}
+
+.cuadro2{
+	border-radius: 10px;
+	position: absolute;
+	top: 120px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+	.titulo2{
+		position: absolute;
+		top: 4px;
+		left: 0px;
+		color: black;
+		font-size: 30px;
+	}
+.texto1{
+	position: absolute;
+	top: 60px;
+	left: 0px;
+	width: 700px;
+	height: 200px;
+	color: black;
+	font-size: 30px;
+}	
+
+.cuadro3{
+	position: absolute;
+	border-radius: 10px;
+	position: absolute;
+	top: 400px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+	.texto2{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+	.texto3{
+		position: absolute;
+		top: 50px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+
+.cuadro4{
+	position: absolute;
+	border-radius: 10px;
+	position: absolute;
+	top: 990px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+	.parrafo1{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+	.parrafo2{
+		position: absolute;
+		top: 50px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+
+.cuadro5{
+	position: absolute;
+	border-radius: 10px;
+	position: absolute;
+	top: 1200px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+	.parrafo3{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+	.parrafo4{
+		position: absolute;
+		top: 50px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+
+.cuadro6{
+	position: absolute;
+	border-radius: 10px;
+	position: absolute;
+	top: 1410px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+
+	.parrafo5{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+	.parrafo6{
+		position: absolute;
+		top: 50px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+
+.cuadro7{
+	position: absolute;
+	border-radius: 10px;
+	position: absolute;
+	top: 1700px;
+	left: 0px;
+	width: 230px;
+	height: 40px;
+	background: #6C3483;
+}
+	.parrafo7{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
+	.parrafo8{
+		position: absolute;
+		top: 50px;
+		left: 0px;
+		width: 700px;
+		height: 200px;
+		color: black;
+		font-size: 30px;
+	}
